@@ -31,6 +31,10 @@ Move until the distance is less than one and half time of the threshold as the s
 
 ![Tux, the Linux mascot](/images/img5.png)
 
+It repeats the same process till all the silver tokens are carried and released next to the golden tokens 
+
+![Tux, the Linux mascot](/images/img6.png)
+
 
 
 
